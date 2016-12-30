@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+#twitter{
+  margin-left:55px;
+}
+button{
+  margin-top:5px;
+  margin-left:10px;
+  position:absolute;
+}
+.well{
+
+  width:600px;
+  top:250px;
+  left:260px;
+  background-color:#F0E68C;
+ box-shadow: 5px 5px 5px #888888;
+}
+#author{
+font-family: 'Dosis', sans-serif;
+  margin-right:10px;
+  font-size:30px;
+  color:grey;
+}
+#quote{
+  font-family: 'Dosis', sans-serif;
+  font-size:30px;
+}
